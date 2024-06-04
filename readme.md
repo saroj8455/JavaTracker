@@ -2,7 +2,7 @@
 
 track sample learning process
 
- Introduction to Java Course
+ - [] Introduction to Java Course
  Java Development Kit setup
  First code in java
  How Java Works
