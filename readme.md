@@ -1,102 +1,102 @@
-## Java Tracker
+## Java Tracker<br>
 
-track sample learning process
+track sample learning process<br>
 
- - [] Introduction to Java Course
- Java Development Kit setup
- First code in java
- How Java Works
- Variables in java
- Data types in java
- Literal
- Type conversion
- Assignment Operators
- Relational Operators
- Logical Operators
- If Else
- If Else if
- ternary
- Switch Statement
- Need For Loop
- While Loop
- Do While Loop
- For Loop
- Which Loop To Use
- Class And Object Theory
- Class and Object Practical
- JDK JRE JVM
- Methods
- Method Overloading
- Stack And Heap
- Need of an Array
- Creation of Array
- Multi Dimensional Array
- Jagged and 3D Array
- Drawbacks of Array
- Array of Objects
- Enhanced for loop
- What is String
- Mutable vs Immutable string
- StringBuffer and StringBuilder
- static variable
- static block
- static method
- Encapsulation
- Getters and setters
- this keyword
- constructor
- default vs parameterized constructor
- this and super method
-Naming Convention
-Anonymous Object
-Need of Inheritance
-What is Inheritance
-Single and Multilevel inheritance
-Multiple Inheritance
-Method Overriding
-packages
-Access Modifiers
-Polymorphism
-Dynamic Method Dispatch
-Final keyword
-Object Class equals toString hashcode
-Upcasting and Downcasting
-abstract keyword
-Inner class
-Anonymous Inner class
-abstract and anonymous inner class
-What is Interface
-More on Interfaces
-Need of Interface
-What is Enum
-enum if and switch
-Enum Class
-What is Annotation
-Functional Interface
-Lambda Expression
-Lambda Expression with return
-Types of Interface
-What is Exception
-Exception Handling using try catch
-try with multiple catch
-Exception Hierarchy
-Exception throw keyword
-Custom exception
-Ducking Exception using throws
-User Input using BufferedReader and Scanner
-try with resources
-Threads
-Multiple Threads
-Thread Priority and Sleep
-Runnable vs Thread
-Race Condition
-Thread states
-Collection API
-ArrayList
-Set
-Map
-Comparator vs Comparable
-Need of Stream API
-forEach Method
-Stream API
-Map Filter Reduce Sorted
+ Introduction to Java Course <br>
+ Java Development Kit setup <br>
+ First code in java <br>
+ How Java Works<br>
+ Variables in java<br>
+ Data types in java<br>
+ Literal<br>
+ Type conversion<br>
+ Assignment Operators<br>
+ Relational Operators<br>
+ Logical Operators<br>
+ If Else<br>
+ If Else if<br>
+ ternary<br>
+ Switch Statement<br>
+ Need For Loop<br>
+ While Loop<br>
+ Do While Loop<br>
+ For Loop<br>
+ Which Loop To Use<br>
+ Class And Object Theory<br>
+ Class and Object Practical<br>
+ JDK JRE JVM<br>
+ Methods<br>
+ Method Overloading<br>
+ Stack And Heap<br>
+ Need of an Array<br>
+ Creation of Array<br>
+ Multi Dimensional Array<br>
+ Jagged and 3D Array<br>
+ Drawbacks of Array<br>
+ Array of Objects<br>
+ Enhanced for loop<br>
+ What is String<br>
+ Mutable vs Immutable string<br>
+ StringBuffer and StringBuilder<br>
+ static variable<br>
+ static block<br>
+ static method<br>
+ Encapsulation<br>
+ Getters and setters<br>
+ this keyword<br>
+ constructor<br>
+ default vs parameterized constructor<br>
+ this and super method<br>
+Naming Convention<br>
+Anonymous Object<br>
+Need of Inheritance<br>
+What is Inheritance<br>
+Single and Multilevel inheritance<br>
+Multiple Inheritance<br>
+Method Overriding<br>
+packages<br>
+Access Modifiers<br>
+Polymorphism<br>
+Dynamic Method Dispatch<br>
+Final keyword<br>
+Object Class equals toString hashcode<br>
+Upcasting and Downcasting<br>
+abstract keyword<br>
+Inner class<br>
+Anonymous Inner class<br>
+abstract and anonymous inner class<br>
+What is Interface<br>
+More on Interfaces<br>
+Need of Interface<br>
+What is Enum<br>
+enum if and switch<br>
+Enum Class<br>
+What is Annotation<br>
+Functional Interface<br>
+Lambda Expression<br>
+Lambda Expression with return<br>
+Types of Interface<br>
+What is Exception<br>
+Exception Handling using try catch<br>
+try with multiple catch<br>
+Exception Hierarchy<br>
+Exception throw keyword<br>
+Custom exception<br>
+Ducking Exception using throws<br>
+User Input using BufferedReader and Scanner<br>
+try with resources<br>
+Threads<br>
+Multiple Threads<br>
+Thread Priority and Sleep<br>
+Runnable vs Thread<br>
+Race Condition<br>
+Thread states<br>
+Collection API<br>
+ArrayList<br>
+Set<br>
+Map<br>
+Comparator vs Comparable<br>
+Need of Stream API<br>
+forEach Method<br>
+Stream API<br>
+Map Filter Reduce Sorted<br>
